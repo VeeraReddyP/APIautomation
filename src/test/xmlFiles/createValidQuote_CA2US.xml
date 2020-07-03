@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Freightcom xmlns="http://www.freightcom.net/XMLSchema" password="1234" username="ibd12345" version="3.1.0">
+    <QuoteRequest insuranceType="0" isSaturdayService="false" orderSource="CS-Manual" residentialDelivery="true" saturdayPickupRequired="false" stackable="true">
+        <From address1="606 Magnetic Dr" attention="James Park" city="Toronto" company="One Trading Ltd" country="CA" email="onetradingltd@gmail.com" id="123" phone="4166616664" state="ON" zip="M3J2C4"/>
+        <To address1="111 West Elder Street" address2="111" attention="Matt Piirvee" city="CINCINNATI" company="Matt Piirvee" country="US" email="piirvee@aol.com" phone="4167825187" state="OH" zip="45202"/>
+        <Packages type="Package"><Package height="6" insuranceAmount="0.0" length="10" weight="1" width="6"/>
+        </Packages>
+    </QuoteRequest>
+</Freightcom>
